@@ -1,4 +1,4 @@
-Zygotic EchoD: etecting the Genesis IO Signature
+Zygotic Echo: Detecting the Genesis IO Signature
 
 Author: ApingROC 
 Date: March 2025
