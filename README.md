@@ -56,5 +56,7 @@ Open-source researchers, physicists, biologists, and engineers are encouraged to
 
 GitHub repository forthcoming. May the ping be with you.
 
+https://www.sciencealert.com/scientists-just-captured-the-actual-flash-of-light-that-sparks-when-sperm-meets-an-egg
+
 “Vita ex decoctione diu agitata oriri non potest.”
 
