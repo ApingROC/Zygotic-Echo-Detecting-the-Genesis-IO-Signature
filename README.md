@@ -60,3 +60,7 @@ https://www.sciencealert.com/scientists-just-captured-the-actual-flash-of-light-
 
 “Vita ex decoctione diu agitata oriri non potest.”
 
+P.S. search for a Nucleotide Archiver (NArchiver)
+~550–600 MB signature
+
+
